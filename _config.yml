@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               ""
+  id:               ""zhangyongblog
 
 # URL
 url:                "https://zhangyonga.github.io" # the base hostname & protocol for your site
