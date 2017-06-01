@@ -111,3 +111,13 @@ Maruku
     <div id="awesome">
       <p>This is great isn't it?</p>
     </div>
+
+### Java Code
+
+```java
+public class Main{
+	public static void main(String[] args){
+		System.out.println("Hello Jekyll!");
+	}
+}
+```
