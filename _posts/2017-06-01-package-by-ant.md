@@ -3,7 +3,7 @@ layout: post
 title: "使用ant对普通web项目进行打包"
 description: "ant 打包普通 web项目"
 date: 2017-6-01
-tags: [ant, tool]
+tags: [ant, 工具]
 comments: true
 share: true
 ---
