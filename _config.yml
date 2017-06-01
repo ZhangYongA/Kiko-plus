@@ -28,11 +28,11 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "UA-100318235-1"
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               ""
 
 # URL
 url:                "https://zhangyonga.github.io" # the base hostname & protocol for your site
