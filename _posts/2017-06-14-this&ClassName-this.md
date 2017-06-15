@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "this & Class.this"
+title: "this & ClassName.this"
 date: 2017-06-14
 tags: [java]
 comments: true
