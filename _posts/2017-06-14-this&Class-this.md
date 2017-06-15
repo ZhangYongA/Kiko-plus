@@ -2,7 +2,7 @@
 layout: post
 title: "this & Class.this"
 date: 2017-06-14
-tags: [java, 语法]
+tags: [java]
 comments: true
 share: true
 ---
