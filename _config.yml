@@ -91,3 +91,6 @@ gems:
   - jekyll-admin
 
 exclude:            [vendor]
+
+# date
+date:               "yyyy-MM-dd HH:mm:ss" 
