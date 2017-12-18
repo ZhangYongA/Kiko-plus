@@ -3,7 +3,7 @@ layout: post
 title: "Cookie & ThreadLocal 代替 session 实现无状态登录"
 description: "cookie & ThreadLocal 存取当前用户状态"
 date: 2017-07-24
-tags: [java]
+tags: [Java]
 comments: true
 share: true
 ---

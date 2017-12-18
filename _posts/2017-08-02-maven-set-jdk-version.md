@@ -3,7 +3,7 @@ layout: post
 title: "maven 配置 jdk 版本"
 description: "maven 配置 jdk 版本"
 date: 2017-08-02
-tags: [java, 工具, maven, 备忘随手记]
+tags: [Java, 工具, maven, 备忘随手记]
 comments: true
 share: true
 ---

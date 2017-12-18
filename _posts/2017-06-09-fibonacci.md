@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "java 实现斐波那契数列"
+title: "Java 实现斐波那契数列"
 description: "Java 代码示例"
 date: 2017-06-09
-tags: [算法,java]
+tags: [算法,Java]
 comments: true
 share: true
 ---

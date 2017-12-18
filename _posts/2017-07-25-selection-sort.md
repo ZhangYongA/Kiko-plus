@@ -3,7 +3,7 @@ layout: post
 title: "选择排序"
 description: "java 实现选择排序"
 date: 2017-07-25
-tags: [java, 算法]
+tags: [Java, 算法]
 comments: true
 share: true
 ---

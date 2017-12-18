@@ -3,7 +3,7 @@ layout: post
 title: "插入排序"
 description: "java 实现插入排序"
 date: 2017-07-26
-tags: [java, 算法]
+tags: [Java, 算法]
 comments: true
 share: true
 ---
